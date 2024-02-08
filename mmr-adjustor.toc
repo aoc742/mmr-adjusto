@@ -1,0 +1,9 @@
+## Interface: 100205
+## Title: mmr-adjustor
+## Notes: Finally gain the MMR you so deserve.
+## Author: Austin O'Connell
+## Version: 1.0
+## Dependencies: 
+## SavedVariablesPerCharacter: NewAddonPrefs
+
+mmr-adjustor.lua
